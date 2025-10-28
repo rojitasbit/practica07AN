@@ -330,7 +330,7 @@
                   echo $deportes["resumen"];
                 ?>
               </p>
-              <img src="<?php echo $deoportes['url']; ?>" 
+              <img src="<?php echo $deportes['url']; ?>" 
                     alt="Imagen noticia"
                     class="mt-2 img-fluid">
             </div>
