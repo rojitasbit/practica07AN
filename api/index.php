@@ -44,6 +44,9 @@
               echo $portada["resumen"];
             ?>
           </p>
+          <img src="<?php echo $portada['url']; ?>" 
+                alt="Imagen noticia"
+                class="mt-2 img-fluid">
         </div>
       </div>
 
@@ -74,6 +77,9 @@
                   echo $internacional["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $internacional['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -98,7 +104,7 @@
                   echo $nacional["resumen"];
                 ?>
               </p>
-              <img src="<?php echo $internacional['url']; ?>" 
+              <img src="<?php echo $nacional['url']; ?>" 
                     alt="Imagen noticia"
                     class="mt-2 img-fluid">
             </div>
@@ -134,6 +140,9 @@
                   echo $economia["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $economia['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -156,8 +165,11 @@
               <p class="card-text mb-auto">
                 <?php
                   echo $opinion["resumen"];
-                ?>
+                ?>          
               </p>
+              <img src="<?php echo $opinion['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -191,6 +203,9 @@
                   echo $tecnologia["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $tecnologia['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -215,6 +230,9 @@
                   echo $ciencia["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $ciencia['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -248,6 +266,9 @@
                   echo $cultura["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $cultura['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -272,6 +293,9 @@
                   echo $gente["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $gente['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -306,6 +330,9 @@
                   echo $deportes["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $deoportes['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -330,6 +357,9 @@
                   echo $television["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $television['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -354,6 +384,9 @@
                   echo $video["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $video['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -388,6 +421,9 @@
                   echo $formacion["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $formacion['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -412,6 +448,9 @@
                   echo $empleo["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $empleo['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -436,6 +475,9 @@
                   echo $sociedad["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $sociedad['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -469,6 +511,9 @@
                   echo $openstack["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $openstack['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -493,6 +538,9 @@
                   echo $git["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $git['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -526,6 +574,9 @@
                   echo $contenedores["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $contenedores['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
@@ -550,6 +601,9 @@
                   echo $openshift["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $openshift['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>

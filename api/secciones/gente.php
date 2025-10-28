@@ -7,4 +7,5 @@ $gente = [
     "titulo"  => "Miles marchan en apoyo a la donación de órganos",
     "autor"   => "Agencia EFE",
     "resumen" => "Organizaciones civiles convocaron una marcha masiva para promover la concientización sobre la importancia de la donación de órganos y tejidos.",
+    
 ];

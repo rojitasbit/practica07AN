@@ -7,5 +7,6 @@ $cultura = [
     "titulo"  => "La UNESCO declara nuevas ciudades como Capitales Mundiales de la Literatura",
     "autor"   => "BBC Cultura",
     "resumen" => "La UNESCO anunció su nueva lista anual de ciudades reconocidas por su aporte a la literatura, destacando el impulso a bibliotecas públicas, festivales literarios y programas educativos que fomentan la lectura.",
+    "url"     => "https://articles.unesco.org/sites/default/files/2023-10/Picture%202.jpg"
 ];
 ?>

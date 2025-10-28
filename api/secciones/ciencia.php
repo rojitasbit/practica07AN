@@ -7,5 +7,6 @@ $ciencia = [
     "titulo"  => "Astrónomos detectan un exoplaneta potencialmente habitable a 40 años luz",
     "autor"   => "National Geographic",
     "resumen" => "Un equipo internacional de astrónomos anunció el hallazgo de un exoplaneta similar a la Tierra que se encuentra en la zona habitable de su estrella, lo que incrementa las posibilidades de encontrar condiciones aptas para la vida fuera del sistema solar.",
+    "url"     => "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/05/24/6650c76328db3.jpeg"
 ];
 ?>

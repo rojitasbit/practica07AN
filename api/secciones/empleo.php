@@ -7,5 +7,6 @@ $empleo = [
     "titulo"  => "Empresas tecnológicas anuncian nuevas contrataciones tras repunte del mercado",
     "autor"   => "The Wall Street Journal",
     "resumen" => "Varias compañías del sector tecnológico confirmaron planes de ampliar su plantilla luego de registrar ganancias superiores a lo esperado en el último trimestre.",
+    "url"     => "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ZYECMD5CR5DGHCBK4Q4XMFIL6E.jpg"
 ];
 ?>
