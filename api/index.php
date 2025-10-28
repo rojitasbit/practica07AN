@@ -98,6 +98,9 @@
                   echo $nacional["resumen"];
                 ?>
               </p>
+              <img src="<?php echo $internacional['url']; ?>" 
+                    alt="Imagen noticia"
+                    class="mt-2 img-fluid">
             </div>
           </div>
         </div>
